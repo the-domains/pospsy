@@ -1,0 +1,28 @@
+name: Pospsy
+favicon: null
+layout_spectrum: 0.44909928855486214
+typography_spectrum: 0.3467231681570411
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5607917634770274
+  lightness: 0.4308986726682633
+  saturation: 0.8631383271422237
+  rhythmicContrast: 0.07018519681878388
+purpose: []
